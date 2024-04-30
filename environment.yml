@@ -1,4 +1,4 @@
-name: onedcelltrack
+name: onedcelltrack240430
 channels:
   - pytorch
   - nvidia
@@ -372,4 +372,4 @@ dependencies:
   - zlib=1.2.13=h166bdaf_4
   - zlib-ng=2.0.6=h166bdaf_0
   - zstd=1.5.2=h6239696_4
-prefix: /project/ls-raedler/software/miniconda_miguel/envs/onedcelltrack
+prefix: /home/j/J.Heyn/.conda/envs/onedcelltrack240430

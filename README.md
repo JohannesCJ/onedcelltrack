@@ -8,7 +8,7 @@ Python project for 1D automated single-cell migration assay. Pipeline which take
 
 `conda create -n onedcelltrack python=3.8` <br />
 Install onedcelltrack <br />
-`python -m pip install git +https://github.com/miguelatienza/onedcelltrack` <br />
+`python -m pip install 'git+https://github.com/miguelatienza/onedcelltrack'` <br />
 
 Activate the conda environment <br />
 `conda activate onedcelltrack` <br />

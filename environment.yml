@@ -1,4 +1,4 @@
-name: onedcelltrack
+name: my_onedcelltrack
 channels:
   - pytorch
   - nvidia
